@@ -90,8 +90,7 @@
               "RelativeToolTip": "Sandbox\\src\\SandboxApp.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-03T12:14:42.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-03T12:14:42.247Z"
             },
             {
               "$type": "Document",
@@ -103,8 +102,7 @@
               "RelativeToolTip": "Hazel\\src\\Hazel\\Log.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-30T14:01:08.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T14:01:08.62Z"
             },
             {
               "$type": "Document",
@@ -116,8 +114,7 @@
               "RelativeToolTip": "Hazel\\src\\Hazel\\Log.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-30T14:01:26.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T14:01:26.422Z"
             },
             {
               "$type": "Document",
@@ -129,8 +126,7 @@
               "RelativeToolTip": "Hazel\\src\\Hazel.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-13T14:11:28.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-13T14:11:28.852Z"
             },
             {
               "$type": "Document",
@@ -140,7 +136,7 @@
               "RelativeDocumentMoniker": "Hazel\\src\\Hazel\\EntryPoint.h",
               "ToolTip": "C:\\dev\\Learning-Hazel\\Hazel\\src\\Hazel\\EntryPoint.h",
               "RelativeToolTip": "Hazel\\src\\Hazel\\EntryPoint.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-13T14:25:40.567Z",
               "EditorCaption": ""
@@ -155,8 +151,7 @@
               "RelativeToolTip": "Hazel\\src\\Hazel\\Application.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-13T13:42:36.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-13T13:42:36.413Z"
             },
             {
               "$type": "Document",
@@ -168,8 +163,7 @@
               "RelativeToolTip": "Hazel\\src\\Hazel\\Application.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-13T13:42:35.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-13T13:42:35.009Z"
             },
             {
               "$type": "Document",
@@ -181,8 +175,7 @@
               "RelativeToolTip": "Hazel\\src\\Hazel\\Core.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-13T13:39:52.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-13T13:39:52.696Z"
             }
           ]
         }
