@@ -1,45 +1,4 @@
-﻿  Log.cpp
-C:\dev\Learning-Hazel\Hazel\src\Hazel\Log.h(1,1): warning C4828: 文件包含在偏移 0x217 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“src/Hazel/Log.cpp”)
-  
-C:\dev\Learning-Hazel\Hazel\src\Hazel\Log.h(1,1): warning C4828: 文件包含在偏移 0x21b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“src/Hazel/Log.cpp”)
-  
-C:\dev\Learning-Hazel\Hazel\src\Hazel\Log.h(1,1): warning C4828: 文件包含在偏移 0x21e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“src/Hazel/Log.cpp”)
-  
-C:\dev\Learning-Hazel\Hazel\src\Hazel\Log.h(1,1): warning C4828: 文件包含在偏移 0x3a4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“src/Hazel/Log.cpp”)
-  
-C:\dev\Learning-Hazel\Hazel\src\Hazel\Log.h(1,1): warning C4828: 文件包含在偏移 0x3a7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“src/Hazel/Log.cpp”)
-  
-C:\dev\Learning-Hazel\Hazel\src\Hazel\Log.h(1,1): warning C4828: 文件包含在偏移 0x3a8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“src/Hazel/Log.cpp”)
-  
-C:\dev\Learning-Hazel\Hazel\src\Hazel\Log.h(1,1): warning C4828: 文件包含在偏移 0x3a9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“src/Hazel/Log.cpp”)
-  
-C:\dev\Learning-Hazel\Hazel\src\Hazel\Log.h(1,1): warning C4828: 文件包含在偏移 0x3ab 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“src/Hazel/Log.cpp”)
-  
-C:\dev\Learning-Hazel\Hazel\src\Hazel\Log.h(1,1): warning C4828: 文件包含在偏移 0x3ad 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“src/Hazel/Log.cpp”)
-  
-C:\dev\Learning-Hazel\Hazel\src\Hazel\Log.h(1,1): warning C4828: 文件包含在偏移 0x3ae 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“src/Hazel/Log.cpp”)
-  
-C:\dev\Learning-Hazel\Hazel\src\Hazel\Log.h(1,1): warning C4828: 文件包含在偏移 0x3b1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
-  (编译源文件“src/Hazel/Log.cpp”)
-  
-C:\dev\Learning-Hazel\Hazel\src\Hazel\Log.h(15,42): warning C4251: “Hazel::Log::s_CoreLogger”:“std::shared_ptr<spdlog::logger>”需要有 dll 接口以供“Hazel::Log”的客户端使用
-  (编译源文件“src/Hazel/Log.cpp”)
-      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\memory(1560,7):
-      参见“std::shared_ptr<spdlog::logger>”的声明
-  
-C:\dev\Learning-Hazel\Hazel\src\Hazel\Log.h(16,42): warning C4251: “Hazel::Log::s_ClientLogger”:“std::shared_ptr<spdlog::logger>”需要有 dll 接口以供“Hazel::Log”的客户端使用
-  (编译源文件“src/Hazel/Log.cpp”)
-      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\memory(1560,7):
-      参见“std::shared_ptr<spdlog::logger>”的声明
-  
+﻿  Application.cpp
+  LINK : 没有找到 C:\dev\Learning-Hazel\bin\Debug-x64\Hazel\Hazel.dll 或上一个增量链接没有生成它；正在执行完全链接
+    正在创建库 C:\dev\Learning-Hazel\bin\Debug-x64\Hazel\Hazel.lib 和对象 C:\dev\Learning-Hazel\bin\Debug-x64\Hazel\Hazel.exp
   Hazel.vcxproj -> C:\dev\Learning-Hazel\bin\Debug-x64\Hazel\Hazel.dll

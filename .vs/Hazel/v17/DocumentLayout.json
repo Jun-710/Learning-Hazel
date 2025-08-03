@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "C:\\dev\\Learning-Hazel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3278315-A329-4DEE-9972-4B50671B4382}|Hazel\\Hazel.vcxproj|C:\\dev\\Learning-Hazel\\Hazel\\src\\Hazel\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E3278315-A329-4DEE-9972-4B50671B4382}|Hazel\\Hazel.vcxproj|solutionrelative:Hazel\\src\\Hazel\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E3278315-A329-4DEE-9972-4B50671B4382}|Hazel\\Hazel.vcxproj|C:\\dev\\Learning-Hazel\\Hazel\\src\\Hazel\\Log.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E3278315-A329-4DEE-9972-4B50671B4382}|Hazel\\Hazel.vcxproj|solutionrelative:Hazel\\src\\Hazel\\Log.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\Learning-Hazel\\permake5.lua||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:permake5.lua||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{E3278315-A329-4DEE-9972-4B50671B4382}|Hazel\\Hazel.vcxproj|C:\\dev\\Learning-Hazel\\Hazel\\src\\Hazel\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E3278315-A329-4DEE-9972-4B50671B4382}|Hazel\\Hazel.vcxproj|solutionrelative:Hazel\\src\\Hazel\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3278315-A329-4DEE-9972-4B50671B4382}|Hazel\\Hazel.vcxproj|C:\\dev\\Learning-Hazel\\Hazel\\src\\Hazel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E3278315-A329-4DEE-9972-4B50671B4382}|Hazel\\Hazel.vcxproj|solutionrelative:Hazel\\src\\Hazel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{336D2B8C-4ECB-49C1-B363-9A8160B0602C}|Sandbox\\Sandbox.vcxproj|C:\\dev\\Learning-Hazel\\Sandbox\\src\\SandboxApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{336D2B8C-4ECB-49C1-B363-9A8160B0602C}|Sandbox\\Sandbox.vcxproj|solutionrelative:Sandbox\\src\\SandboxApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3278315-A329-4DEE-9972-4B50671B4382}|Hazel\\Hazel.vcxproj|C:\\dev\\Learning-Hazel\\Hazel\\src\\Hazel\\Log.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E3278315-A329-4DEE-9972-4B50671B4382}|Hazel\\Hazel.vcxproj|solutionrelative:Hazel\\src\\Hazel\\Log.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\Learning-Hazel\\Hazel\\vendor\\spdlog\\include\\spdlog\\fmt\\bundled\\base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hazel\\vendor\\spdlog\\include\\spdlog\\fmt\\bundled\\base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E3278315-A329-4DEE-9972-4B50671B4382}|Hazel\\Hazel.vcxproj|C:\\dev\\Learning-Hazel\\Hazel\\src\\Hazel\\EntryPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E3278315-A329-4DEE-9972-4B50671B4382}|Hazel\\Hazel.vcxproj|solutionrelative:Hazel\\src\\Hazel\\EntryPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{336D2B8C-4ECB-49C1-B363-9A8160B0602C}|Sandbox\\Sandbox.vcxproj|C:\\dev\\Learning-Hazel\\Sandbox\\src\\SandboxApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{336D2B8C-4ECB-49C1-B363-9A8160B0602C}|Sandbox\\Sandbox.vcxproj|solutionrelative:Sandbox\\src\\SandboxApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E3278315-A329-4DEE-9972-4B50671B4382}|Hazel\\Hazel.vcxproj|C:\\dev\\Learning-Hazel\\Hazel\\src\\Hazel\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E3278315-A329-4DEE-9972-4B50671B4382}|Hazel\\Hazel.vcxproj|solutionrelative:Hazel\\src\\Hazel\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\Learning-Hazel\\permake5.lua||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:permake5.lua||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\Learning-Hazel\\Hazel\\vendor\\spdlog\\include\\spdlog\\fmt\\bundled\\base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hazel\\vendor\\spdlog\\include\\spdlog\\fmt\\bundled\\base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3278315-A329-4DEE-9972-4B50671B4382}|Hazel\\Hazel.vcxproj|C:\\dev\\Learning-Hazel\\Hazel\\src\\Hazel\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "permake5.lua",
               "DocumentMoniker": "C:\\dev\\Learning-Hazel\\permake5.lua",
               "RelativeDocumentMoniker": "permake5.lua",
@@ -66,12 +66,11 @@
               "RelativeToolTip": "permake5.lua",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-08-03T12:15:41.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-03T12:15:41.053Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "base.h",
               "DocumentMoniker": "C:\\dev\\Learning-Hazel\\Hazel\\vendor\\spdlog\\include\\spdlog\\fmt\\bundled\\base.h",
               "RelativeDocumentMoniker": "Hazel\\vendor\\spdlog\\include\\spdlog\\fmt\\bundled\\base.h",
@@ -83,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SandboxApp.cpp",
               "DocumentMoniker": "C:\\dev\\Learning-Hazel\\Sandbox\\src\\SandboxApp.cpp",
               "RelativeDocumentMoniker": "Sandbox\\src\\SandboxApp.cpp",
@@ -91,23 +90,25 @@
               "RelativeToolTip": "Sandbox\\src\\SandboxApp.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-03T12:14:42.247Z"
+              "WhenOpened": "2025-08-03T12:14:42.247Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Log.h",
               "DocumentMoniker": "C:\\dev\\Learning-Hazel\\Hazel\\src\\Hazel\\Log.h",
               "RelativeDocumentMoniker": "Hazel\\src\\Hazel\\Log.h",
               "ToolTip": "C:\\dev\\Learning-Hazel\\Hazel\\src\\Hazel\\Log.h",
               "RelativeToolTip": "Hazel\\src\\Hazel\\Log.h",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-30T14:01:08.62Z"
+              "WhenOpened": "2025-07-30T14:01:08.62Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Log.cpp",
               "DocumentMoniker": "C:\\dev\\Learning-Hazel\\Hazel\\src\\Hazel\\Log.cpp",
               "RelativeDocumentMoniker": "Hazel\\src\\Hazel\\Log.cpp",
@@ -126,13 +127,14 @@
               "RelativeDocumentMoniker": "Hazel\\src\\Hazel.h",
               "ToolTip": "C:\\dev\\Learning-Hazel\\Hazel\\src\\Hazel.h",
               "RelativeToolTip": "Hazel\\src\\Hazel.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-13T14:11:28.852Z"
+              "WhenOpened": "2025-07-13T14:11:28.852Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "EntryPoint.h",
               "DocumentMoniker": "C:\\dev\\Learning-Hazel\\Hazel\\src\\Hazel\\EntryPoint.h",
               "RelativeDocumentMoniker": "Hazel\\src\\Hazel\\EntryPoint.h",
@@ -140,7 +142,8 @@
               "RelativeToolTip": "Hazel\\src\\Hazel\\EntryPoint.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-13T14:25:40.567Z"
+              "WhenOpened": "2025-07-13T14:25:40.567Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -156,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Application.h",
               "DocumentMoniker": "C:\\dev\\Learning-Hazel\\Hazel\\src\\Hazel\\Application.h",
               "RelativeDocumentMoniker": "Hazel\\src\\Hazel\\Application.h",
@@ -164,7 +167,8 @@
               "RelativeToolTip": "Hazel\\src\\Hazel\\Application.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-13T13:42:35.009Z"
+              "WhenOpened": "2025-07-13T13:42:35.009Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
