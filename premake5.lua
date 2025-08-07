@@ -41,6 +41,7 @@ project "Hazel"
 
 		postbuildcommands
 		{
+			("{MKDIR} ../bin/" .. outputdir .. "/Sandbox"),
 			("{COPYFILE} %{cfg.buildtarget.relpath} ../bin/"  .. outputdir .. "/Sandbox")
 		}
 
